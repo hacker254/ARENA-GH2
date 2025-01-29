@@ -1,0 +1,40 @@
+{
+    "registry":[
+        {
+            "id": "ef5e4ebb-fb6d-4c53-8f3c-7c89e637b2c6",
+            "Doc Type": "DEA",
+            "Blockchain ID":"0x9dc2241786bc7fecd03e21774898ec12d659597c504fbbba98af97de97c350c9",
+            "Retirement beneficiary": "eg KQ",
+            "Beneficiary type": "Aviation",
+            "Retirement date": "01/01/2025",
+            "GH2 type": "SAF",
+            "Volume": "1000GAL",
+            "Ghg avoided":"",
+            "Retirement statement":"undisclosed"
+        },
+        {
+            "id": "ef5e4ebb-fb6d-4c53-8f3c-7c89e637b2c6",
+            "Doc Type": "DEA",
+            "Blockchain ID":"0x9dc2241786bc7fecd03e21774898ec12d659597c504fbbba98af97de97c350c9",
+            "Retirement beneficiary": "eg MAERSK",
+            "Beneficiary type": "Shipping",
+            "Retirement date": "01/01/2025",
+            "GH2 type": "E-METHANOL",
+            "Volume": "1000GAL",
+            "Ghg avoided":"",
+            "Retirement statement":"*Attach document*"
+        },
+        {
+            "id": "ef5e4ebb-fb6d-4c53-8f3c-7c89e637b2c6",
+            "Doc Type": "DEA",
+            "Blockchain ID":"0x9dc2241786bc7fecd03e21774898ec12d659597c504fbbba98af97de97c350c9",
+            "Retirement beneficiary": "eg KENYA NUT",
+            "Beneficiary type": "Agriculture",
+            "Retirement date": "01/01/2025",
+            "GH2 type": "GREEN AMMONIA",
+            "Volume": "50T",
+            "Ghg avoided":"",
+            "Retirement statement":"undisclosed"
+        }
+    ]
+}
